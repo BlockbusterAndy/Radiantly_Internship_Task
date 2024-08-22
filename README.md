@@ -4,7 +4,7 @@ This is a guide on how to run the project both on the backend and frontend.
 
 ## Backend Setup
 
-1. Clone the repository: `git clone https://github.com/repo`
+1. Clone the repository: `git clone https://github.com/BlockbusterAndy/Radiantly_Internship_Task`
 2. Navigate to the backend directory: `cd backend`
 3. Install dependencies: `npm install`
 4. Start the backend server: `nodemon src/server.js` or `node src/server.js`
